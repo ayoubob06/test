@@ -2,9 +2,9 @@
 	"ADS":
 		   {
 		
-			"banner_type":"ertger",
-			"inter_type":"admob",
-			"native_type":"facebook",
+			"banner_type":"unity",
+			"inter_type":"unity",
+			"native_type":"",
 			
 			
 			
